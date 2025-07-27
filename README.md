@@ -5,6 +5,8 @@
   <img src="https://render.gitanimals.org/lines/oOccasio" width="1000" height="120"/>
 </a>
 
+
+https://github-readme-stats.vercel.app/api?oOccasio
 <!--
 **oOccasio/oOccasio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
