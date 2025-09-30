@@ -6,10 +6,15 @@
 <a href="#"><img src="https://img.shields.io/badge/AWS-FF9900?style=flat-square&logo=amazon-aws&logoColor=white"/></a>
 
 
-<a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/oOccasio" width="1000" height="180"/>
-</a>
 
+<a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=oOccasio&utm_content=line">
+  <img
+    src="https://render.gitanimals.org/lines/oOccasio?pet-id=710177703647270711"
+    width="600"
+    height="200"
+  />
+</a>
+  
 
 
 
