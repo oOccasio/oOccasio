@@ -12,7 +12,12 @@
 <a href="#"><img src="https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white"/></a>
 
   
+### Projects
 
+| 프로젝트 | 설명 | Stacks | 날짜 |
+|:------:|------|--------|:----:|
+| [**Comfit**](https://github.com/TEAM-COMFIT/COMFIT-SERVER) | AI 기반 취업지원 플랫폼. 5가지 API 호출 방식 성능 비교 후 Virtual Thread 채택, Resilience4j 튜닝으로 실패율 0% 달성, Redis BRPOP Job Queue로 응답 시간 19.7s→81ms (240배 개선) | Spring Boot, Java 21, PostgreSQL, Redis, WebFlux, Virtual Thread, Resilience4j, Docker, K6, Grafana | 2025.12 ~ 2026.03 |
+| [**Load Balancer**](https://github.com/oOccasio/loadBalancing) | 6가지 로드밸런싱 알고리즘 구현 및 3개 시나리오 18회 부하테스트 정량 비교. 알고리즘별 동시성 문제를 CAS, ConcurrentHashMap 등 락프리 설계로 해결 | Spring Boot, Java 21, Docker, Docker Compose, K6, Prometheus, Grafana | 2025.06 ~ 2025.12 |
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=oOccasio&utm_content=line">
   <img
