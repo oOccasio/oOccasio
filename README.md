@@ -2,9 +2,11 @@
 
 <img width="1410" height="352" alt="image" src="https://github.com/user-attachments/assets/50b112fd-77bd-423c-a8a1-9f735193feff" />
 
-**현상에 머물지 않고 원리를 파고듭니다.** <br>
-트래픽 병목을 부하 테스트로 수치화하고, 그 데이터를 바탕으로
-OS와 언어 레벨까지 내려가 성능을 최적화하는 백엔드 개발자입니다.
+**데이터로 증명하고 AI로 속도를 높이는 엔지니어** <br>
+<br>
+**Data Driven**: K6 테스트 정량적 비교로 기술 스택 채택 <br>
+**AI-Native**: AI Agent를 활용하여 설계와 검증 밀도 극대화 <br>
+**Performance**: p95 69% 단축, 응답속도 240배 향상으로 실질적 지표 창출 <br>
 
 ### 🛠 Tech Stack
 
@@ -23,8 +25,8 @@ OS와 언어 레벨까지 내려가 성능을 최적화하는 백엔드 개발�
 
 | 프로젝트 | 설명 | Stacks | 날짜 |
 |:------:|------|--------|:----:|
-| [**Comfit**](https://github.com/TEAM-COMFIT/COMFIT-SERVER) | AI 기반 취업지원 플랫폼. 5가지 API 호출 방식 성능 비교 후 Virtual Thread 채택, Resilience4j 튜닝으로 실패율 0% 달성, Redis BRPOP Job Queue로 사용자 응답 시간 19.7s→81ms (240배 개선) | Spring Boot, Java 21, PostgreSQL, Redis, WebFlux, Virtual Thread, Resilience4j, Docker, K6, Grafana | 2025.12 ~ 2026.03 |
-| [**Load Balancer**](https://github.com/oOccasio/loadBalancing) | 6가지 로드밸런싱 알고리즘 구현 및 3개 시나리오 18회 부하테스트 정량 비교. 알고리즘별 동시성 문제를 CAS, ConcurrentHashMap 등 락프리 설계로 해결 | Spring Boot, Java 21, Docker, Docker Compose, K6, Prometheus, Grafana | 2025.06 ~ 2025.12 |
+| [**Comfit**](https://github.com/TEAM-COMFIT/COMFIT-SERVER) | AI 기반 취업지원 플랫폼. 5가지 API 호출 방식 성능 비교 후 Virtual Thread 채택, Resilience4j 튜닝으로 실패율 0% 달성, Redis BRPOP Job Queue로 응답 시간 240배 개선 (19.7s → 81ms) | Spring Boot, Java 21, PostgreSQL, Redis, WebFlux, Virtual Thread, Resilience4j, Docker, K6, Grafana | 2025.12 ~ 2026.03 |
+| [**Load Balancer**](https://github.com/oOccasio/loadBalancing) | 6가지 알고리즘 구현 및 18회 부하테스트 정량 비교 → Derivative 기반 트래픽 감지, Hysteresis 노이즈 필터링, Safe-guard 자동 롤백으로 적응형 전환 시스템 구축. GPT-4o Offline Feedback Loop로 결정 규칙을 반복 개선하여 p95 레이턴시 31% 감소 | Spring Boot, Java 21, Docker, Docker Compose, K6, Prometheus, Grafana | 2025.06 ~ 2025.12 |
 
 
 
@@ -33,7 +35,7 @@ OS와 언어 레벨까지 내려가 성능을 최적화하는 백엔드 개발�
 |:------:|------|:----:|
 | **Load Balancer 구현기** | 6가지 알고리즘 설계부터 동시성 문제 해결까지 (9편) | [로드밸런싱 알고리즘 성능 비교 연구](https://velog.io/@occasio/loadbalancing1) |
 | **Volatile 여정** | Java 메모리 모델, 가시성 문제, MESI 프로토콜까지 (3편) | [volatile 이해하기 위한 여정](https://velog.io/@occasio/volatile1) |
-| **MySQL 파헤치기** | InnoDB, MySQL 동작원리, 영속성 컨텍스트, 쿼리튜닝까지 (5편 작성중)| [MySQL 파헤치기](https://velog.io/@occasio/MySQL1) |
+| **MySQL 파헤치기** | InnoDB, MySQL 동작원리, 영속성 컨텍스트, 쿼리튜닝까지 (9편 작성중)| [MySQL 파헤치기](https://velog.io/@occasio/MySQL1) |
 
 
 <a href="https://www.gitanimals.org/en_US?utm_medium=image&utm_source=oOccasio&utm_content=line">
